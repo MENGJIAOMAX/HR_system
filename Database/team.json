@@ -1,0 +1,39 @@
+[
+  {
+    "team_id": 1,
+    "team_name": "Discover Landing"
+  },
+  {
+    "team_id": 2,
+    "team_name": "Growth"
+  },
+  {
+    "team_id": 3,
+    "team_name": "User/ Accounts"
+  },
+  {
+    "team_id": 4,
+    "team_name": "Promotion"
+  },
+  {
+    "team_id": 5,
+    "team_name": "Payments"
+  },
+  {
+    "team_id": 6,
+    "team_name": "Order"
+  },
+  {
+    "team_id": 7,
+    "team_name": "DEEP"
+  },
+  {
+    "team_id": 8,
+    "team_name": "Fraud"
+  },
+  {
+    "team_id": 9,
+    "team_name": "Logistics"
+  }
+]
+

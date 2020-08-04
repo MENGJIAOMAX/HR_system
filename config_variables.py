@@ -1,0 +1,2 @@
+#TODO: Add more configs here
+EMPLOYEE_STATUS = {"PROBATION":0, "CURRENT":1, "LEFT_COMPANY":2}
